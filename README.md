@@ -6,6 +6,6 @@ You can download the dataset here https://www.kaggle.com/lakshmi25npathi/sentime
 ### List of work completed
 
 Data Cleaned <br>
-Data is Tokenized
-Applied Stemming
-Done with Lemmatization 
+Data is Tokenized<br>
+Applied Stemming<br>
+Done with Lemmatization <br>
